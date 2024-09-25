@@ -10,3 +10,7 @@ variable "cidr" {
 variable "vpc_name" {
   type = string
 }
+
+variable "bucket_app" {
+  type = string
+}
